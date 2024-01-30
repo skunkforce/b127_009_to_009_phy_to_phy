@@ -1,12 +1,5 @@
-# test 1
+# communication test
 ## setup
-Describe your test setup
+Connected internet --> b135 (magjack) --> b119 (switch) --> b127 --> b049 (Raspberry Pi CM4 breakout)
 ## results
-Describe your results
-
-
-# test 2
-## setup
-Describe your test setup
-## results
-Describe your results
+The pi was able to communicate with the internet.
