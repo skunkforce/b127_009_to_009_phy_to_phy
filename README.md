@@ -1,5 +1,8 @@
 # edgy_board number b127
-This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards). Use this if you want to connect two phys together without cable, magnetics or connectors. 
+Use this if you want to connect two phys together without cable, magnetics or connectors. 
+[view in borwser with kiCnvas](https://kicanvas.org/?github=https://github.com/skunkforce/b127_009_to_009_phy_to_phy/board)
+
+This design is part of the [edgy board project](https://github.com/skunkforce/edgy_boards).
 
 ![](/board/board.png)
 
